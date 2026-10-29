@@ -16,7 +16,7 @@
 |---|---:|---|
 | Ansh Monga | 590025575 | Ansham382 |
 | Raunak Singh Negi | 590022626 | Raunak-Singh-Negi |
-| Prince Sai | 590022756 | TODO |
+| Prince | 590022756 | PrinceSai11 |
 | Anirudh Awasthi | 590027460 | Anirudhcode111 |
 
 ---
