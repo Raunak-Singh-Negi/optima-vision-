@@ -14,7 +14,7 @@
 
 | Member | Enrolment Number | GitHub Username |
 |---|---:|---|
-| Ansh Monga | 590025575 | TODO |
+| Ansh Monga | 590025575 | Ansham382 |
 | Raunak Singh Negi | 590022626 | Raunak-Singh-Negi |
 | Prince Sai | 590022756 | TODO |
 | Anirudh Awasthi | 590027460 | Anirudhcode111 |
