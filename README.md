@@ -17,7 +17,7 @@
 | Ansh Monga | 590025575 | TODO |
 | Raunak Singh Negi | 590022626 | Raunak-Singh-Negi |
 | Prince Sai | 590022756 | TODO |
-| Anirudh Awasthi | 590027460 | TODO |
+| Anirudh Awasthi | 590027460 | Anirudhcode111 |
 
 ---
 
